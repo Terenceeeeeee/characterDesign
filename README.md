@@ -1,4 +1,4 @@
-#<b>Apex Guardian</p>
+#<b>Stoner</p>
 <h4>Primary Statistics</h4>
   <ul>
     <li><b>Survival:</b> 5/5</li>
@@ -16,12 +16,12 @@
     <tr>
       <td><b>Stone-Dive</b></td>
       <td>Descend rapidly to the ground, dealing AoE damage and stunning nearby enemies.</td>
-      <td>12s</td>
+      <td>20 attack</td>
     </tr>
     <tr>
       <td><b>Wing Shield</b></td>
       <td>Hardens feathers to block 70% of incoming projectiles for 3 seconds.</td>
-      <td>18s</td>
+      <td>Skips turn</td>
     </tr>
   </table>
 
