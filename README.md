@@ -1,4 +1,4 @@
-<b>Apex Guardian</p>
+#<b>Apex Guardian</p>
 <h4>Primary Statistics</h4>
   <ul>
     <li><b>Survival:</b> 5/5</li>
@@ -24,14 +24,14 @@
       <td>18s</td>
     </tr>
   </table>
-  
+
+  #<b>Cloudy</b>
   <h4>Primary Statistics</h4>
   <ul>
     <li><b>Survival:</b> 2/5</li>
     <li><b>Agility:</b> 5/5</li>
     <li><b>Utility:</b> 5/5</li>
   </ul>
-<b>Cloudy</b>
   <h4>Active Abilities</h4>
   <table>
     <tr>
