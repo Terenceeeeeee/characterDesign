@@ -1,15 +1,8 @@
-<details>
-  <summary><b>🛡️ View Class: Apex Guardian</b></summary>
-  <br>
-  <blockquote>
-    "The sky belongs to those who can weather the storm."
-  </blockquote>
-
-  <h4>Primary Statistics</h4>
+<h4>Primary Statistics</h4>
   <ul>
-    <li><b>Survival:</b> ⭐⭐⭐⭐⭐</li>
-    <li><b>Agility:</b> ⭐⭐</li>
-    <li><b>Attack:</b> ⭐⭐⭐⭐</li>
+    <li><b>Survival:</b> 5/5</li>
+    <li><b>Agility:</b> 2/5</li>
+    <li><b>Attack:</b> 4/5</li>
   </ul>
 
   <h4>Active Abilities</h4>
